@@ -1,6 +1,6 @@
 title: River of Thyme
 author: 
-  name: GitHub User
+  name: Aman Jilani
   email: akjuni@outlook.com
 description: > # this means to ignore newlines until "show_excerpts:"
  AWESOME DESCRIPTION
@@ -11,8 +11,9 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
 
+minima: 
+  skin: dark
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
