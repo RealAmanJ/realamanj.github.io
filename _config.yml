@@ -11,18 +11,18 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
+  #skin: dark
 
   # generate social links in footer
   social_links:
-    #twitter: jekyllrb
+    # twitter: jekyllrb
     github:  realamanj
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: muhammad-amanullah-jilani
+    linkedin: muhammad-amanullah-jilani
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
