@@ -292,6 +292,17 @@
   h6 {
     @include relative-font-size(1.04);
   }
+
+  del {
+    @include relative-font-size(0.93);
+    text-decoration: none;
+    color: grey;
+    font-style: italic;
+  }
+
+  p {
+    text-align: justify;
+  }
 }
 
 
