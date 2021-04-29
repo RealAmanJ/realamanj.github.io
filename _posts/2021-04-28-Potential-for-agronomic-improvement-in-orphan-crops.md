@@ -5,9 +5,9 @@ layout: post
 *News and Views article written about<sup>[1]</sup>*
 
 ---
-### Of orphan crops and groundcherries
-**What are orphan crops?**
+### **Of orphan crops and groundcherries**
 <br>
+<span style="font-style:bold; font-size:18px;">What are orphan crops?</span>
 <div style="text-align: justify">  
 While gene editing technologies have been used to greatly improve staple crops such as corn, wheat, and rice<sup>[2]</sup>, there exist minor, regionally important but globally unknown crops whose potential for genetic improvement has not yet been fully explored. These “orphan crops” suffer from a range of agronomic issues that make them unsuitable for large scale production<sup>[3]</sup>.
 
@@ -20,6 +20,7 @@ Groundcherry was favoured due to the fact it falls under Solanaceae<sup>[1]</sup
 </div>
 <div style="page-break-after: always;"></div>
 ### Techniques, Complications and Findings
+<br>
 **CC9 can be utilized in groundcherry**
 <div style="text-align: justify">
 The technical barrier to fully utilizing CC9 is the lack of efficient methodologies<sup>[5]</sup>. This can be overcome by using a technique modelled after those methodologies utilized in tomato<sup>[1]</sup>. Success was evaluated by targeting the ortholog of Sl-AG07, Ppr-AG07. Plants carrying the mutated Ppr-AG07 gene displayed the phenotype of narrower petals and leaves, thus proving that CC9 editing succeeded<sup>[1]</sup>.
@@ -41,6 +42,7 @@ Again, using evolutionary analysis, the researchers found an ortholog of Ppr-CLV
 </div>
 <div style="page-break-after: always;"></div>
 ### Conclusion
+<br>
 **The impact of this paper**
 <div style="text-align: justify">
 This study demonstrates the speed at which orphan crops can be improved and, quite possibly, be elevated to mainstream consumption and production. The gene editing technologies we have today are exceptional compared to those available a few decades ago and continue to develop at a remarkable rate<sup>[6]</sup>. Consequently, their use should not just be limited to model crops.
