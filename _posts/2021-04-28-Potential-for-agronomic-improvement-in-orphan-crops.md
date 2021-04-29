@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Potential For Agronomic Improvement In Orphan Crops
-description: News and Views article written about a paper by *Scheben et al.*
+description: News and Views article written about a paper by Scheben et al. 
 ---
 
 # Of orphan crops and groundcherries  
