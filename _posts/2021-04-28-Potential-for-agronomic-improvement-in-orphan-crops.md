@@ -17,7 +17,7 @@ This paper showcases the improvements made to the agronomic potential of the orp
 Groundcherry was favoured due to the fact it falls under Solanaceae[^1]. This family of plants contains well researched and well-known staple crops such as potatoes, tomatoes, and peppers[^4]. The groundcherry is closer to tomatoes than any of the aforementioned model crops[^4], this permits the targeting of tomato domestication and improvement orthologs that are present in the groundcherry genome.
 
 
-# **Techniques, Complications and Findings**
+# Techniques, Complications and Findings
 
 ## CC9 can be utilized in groundcherry
 
