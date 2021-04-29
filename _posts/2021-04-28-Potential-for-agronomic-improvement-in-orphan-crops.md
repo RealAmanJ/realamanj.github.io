@@ -7,7 +7,7 @@ layout: post
 ---
 ### **Of orphan crops and groundcherries**
 <br>
-<span style="font-style:bold; font-size:18px;">What are orphan crops?</span>
+<span style="font-weight:bold; font-size:18px;">What are orphan crops?</span>
 <div style="text-align: justify">  
 While gene editing technologies have been used to greatly improve staple crops such as corn, wheat, and rice<sup>[2]</sup>, there exist minor, regionally important but globally unknown crops whose potential for genetic improvement has not yet been fully explored. These “orphan crops” suffer from a range of agronomic issues that make them unsuitable for large scale production<sup>[3]</sup>.
 
