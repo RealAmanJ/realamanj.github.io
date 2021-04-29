@@ -251,6 +251,9 @@
     @include relative-font-size(2.625);
   }
 }
+.post-description {
+  font-style: italic;
+}
 
 .post-content {
   margin-bottom: $spacing-unit;
@@ -304,9 +307,6 @@
     text-align: justify;
   }
 
-  .post-description {
-    font-style: italic;
-  }
 }
 
 
