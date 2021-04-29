@@ -19,7 +19,7 @@ This paper showcases the improvements made to the agronomic potential of the orp
 Groundcherry was favoured due to the fact it falls under Solanaceae<sup>[1]</sup>. This family of plants contains well researched and well-known staple crops such as potatoes, tomatoes, and peppers<sup>[4]</sup>. The groundcherry is closer to tomatoes than any of the aforementioned model crops<sup>[4]</sup>, this permits the targeting of tomato domestication and improvement orthologs that are present in the groundcherry genome.
 </div>
 <div style="page-break-after: always;"></div>
-### Techniques, Complications and Findings
+### **Techniques, Complications and Findings**
 <br>
 <span style="font-weight:bold; font-size:18px;">CC9 can be utilized in groundcherry</span>
 <div style="text-align: justify">
@@ -41,7 +41,7 @@ Using the information provided by IWG and RNAsda, the investigators then selecte
 Again, using evolutionary analysis, the researchers found an ortholog of Ppr-CLV1 in the groundcherry genome. Null mutations <span style="color:grey; font-style:italic; font-size:15px;">(mutations that result in loss of function of that gene)</span> were induced in Ppr-CLV1 that resulted in 24% increase of mass in groundcherry fruits<sup>[1]</sup>.
 </div>
 <div style="page-break-after: always;"></div>
-### Conclusion
+### **Conclusion**
 <br>
 <span style="font-weight:bold; font-size:18px;">The impact of this paper</span>
 <div style="text-align: justify">
@@ -54,7 +54,7 @@ There are a few issues with the study. Primarily, the importance of orphan crops
 </div>
 <div style="page-break-after: always;"></div>
 
-### References
+### **References**
 
 1. Lemmon Z, Reem N, Dalrymple J, Soyk S, Swartwood K, Rodriguez-Leal D et al. Rapid improvement of domestication traits in an orphan crop by genome editing. Nature Plants. 2018;4(10):766-770.
 
