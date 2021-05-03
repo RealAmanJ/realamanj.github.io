@@ -271,7 +271,6 @@
 
   h2 {
     @include relative-font-size(1.2);
-    font-weight: bold;
     @media screen and (min-width: $on-large) {
       @include relative-font-size(1.5);
     }
