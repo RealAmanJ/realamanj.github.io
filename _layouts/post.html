@@ -27,6 +27,9 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    <div class="post-description"> {{ page.description | markdownify }} </div>
+   
+    <hr>
     {{ content }}
   </div>
 
