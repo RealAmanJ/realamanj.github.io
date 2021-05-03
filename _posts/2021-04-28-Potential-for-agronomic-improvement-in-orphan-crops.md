@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Potential For Agronomic Improvement In Orphan Crops
-description: News and Views article written about a paper by Scheben et al. 
+description: News and Views article written about a paper by Lemmon, Zachary H et al.
 ---
 
 # Of orphan crops and groundcherries  
 
 ## What are orphan crops?
 
-While gene editing technologies have been used to greatly improve staple crops such as corn, wheat, and rice[^2], there exist minor, regionally important but globally unknown crops whose potential for genetic improvement has not yet been fully explored. These “orphan crops” suffer from a range of agronomic issues that make them unsuitable for large scale production[^3]
+While gene editing technologies have been used to greatly improve staple crops such as corn, wheat, and rice[^2], there exist minor, regionally important but globally unknown crops whose potential for genetic improvement has not yet been fully explored. These “orphan crops” suffer from a range of agronomic issues that make them unsuitable for large scale production[^3].
 
 This paper showcases the improvements made to the agronomic potential of the orphan crop – *Physalis pruinos*  ~~(groundcherry)~~ – via the genomic editing technology, CRISPR Cas-9 ~~((Clustered regularly interspaced short palindromic repeats) (CRISPR associated protein-9 nuclease) CC9)~~. Specifically targeting its sprawling growth habit and very strong stem abscission via orthologs ~~(genes that are the same but are present in different species)~~ of domestication genes in tomatoes.  
 
